@@ -1,0 +1,39 @@
+diff -ur gspcav1-20071224.orig/gspca_core.c gspcav1-20071224/gspca_core.c
+--- gspcav1-20071224.orig/gspca_core.c	2007-12-24 19:56:47.000000000 +0300
++++ gspcav1-20071224/gspca_core.c	2008-07-03 16:44:28.000000000 +0400
+@@ -422,6 +422,7 @@
+ 	Lenovo,
+ 	LogitechQC4Notebooks,
+ 	PhilipsSPC220NC,
++	GeniusEMessenger112,
+ 	LastCamera
+ };
+ static struct cam_list clist[] = {
+@@ -620,6 +621,7 @@
+ 	{Lenovo,"lenovo MI1310_SOC"},
+ 	{LogitechQC4Notebooks,"Logitech QuickCam for Notebooks"},
+ 	{PhilipsSPC220NC,"Philips SPC220NC PAC207"},
++	{GeniusEMessenger112,"Genius e-Messenger 112"},
+ 	{-1, NULL}
+ };
+ static __devinitdata struct usb_device_id device_table[] = {
+@@ -833,6 +835,7 @@
+ 	{USB_DEVICE(0x046d, 0x08dd)},	/* Logitech QuickCam for Notebooks */
+ 	{USB_DEVICE(0x046d, 0x08af)},	/* Logitech QuickCam Cool */
+ 	{USB_DEVICE(0x093a, 0x2472)},	/* PAC207 Genius VideoCam ge110 */
++	{USB_DEVICE(0x093a, 0x2476)},	/* Genius e-Messenger 112 */
+ 	{USB_DEVICE(0x093a, 0x2463)},	/* Philips spc200nc pac207 */
+ 	{USB_DEVICE(0x0000, 0x0000)},	/* MystFromOri Unknow Camera */
+ 	{}			/* Terminating entry */
+@@ -4131,6 +4134,11 @@
+ 			spca50x->bridge = BRIDGE_PAC207;
+ 			spca50x->sensor = SENSOR_PAC207;
+ 			break;
++		case 0x2476:
++			spca50x->desc = GeniusEMessenger112;
++			spca50x->bridge = BRIDGE_PAC207;
++			spca50x->sensor = SENSOR_PAC207;
++			break;
+ 		case 0x2600:
+ 		case 0x2601:
+ 		case 0x2608:

@@ -1,0 +1,108 @@
+# Запускает conky в фоновом режиме
+# (т.е. для того чтобы его вырубить надо убить его процесс)
+background yes
+
+# Включает xft (без него xftfont не работает)
+use_xft yes
+
+# Название шрифта и его размер
+xftfont HandelGotD:size=8
+
+# Прозрачность коньков
+xftalpha 0.5
+
+# Частота обновления conky
+update_interval 1.0
+
+# Через какое время conky вырубятся (в секундах)
+total_run_times 0
+
+# Чтобы conky не затирался другими окнами
+own_window yes
+
+# Вид conky (normal - в окошке, desktop или override - на рабочем столе)
+own_window_type normal
+
+own_window_argb_visual yes
+
+# Делает conky прозрачным
+own_window_transparent yes
+
+# Неизвестно, работает только при own_window_type normal +++++++
+own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+
+# Для устранения мерцания
+double_buffer yes
+
+# Минимальный размер conky ширина/высота (в пикселах)
+minimum_size 190 5
+
+# Максимальный размер conky ширина/высота (в пикселах)
+maximum_width 190
+
+# Отображать тень
+draw_shades no
+
+# Использовать обводку
+draw_outline no
+
+# Рисовать линию вокруг conky
+draw_borders no
+
+# Рисовать линию вокруг графиков
+draw_graph_borders no
+
+# Для назначения дефолтных цветов
+# 1-я строка - цвет шрифта и основных элементов
+# 2-я строка - цвет тени
+# 3-я строка - неизвестно
+default_color grey
+#default_color black
+default_shade_color red
+default_outline_color green
+
+alignment top_right
+
+# Назначают координаты
+gap_x 10
+gap_y 5
+
+no_buffers yes
+uppercase no
+cpu_avg_samples 2
+override_utf8_locale yes
+
+TEXT
+Kernel ${alignr}${kernel}
+CPU 1: ${cpu cpu0}%${alignr}${cpubar cpu0 8,100}
+CPU 2: ${cpu cpu1}%${alignr}${cpubar cpu1 8,100}
+RAM: $mem${alignr}$memperc% ${membar 8,60}
+SWAP: $swap${alignr}$swapperc% ${swapbar 8,60}
+Uptime ${alignr}${uptime}
+
+Local IP кабель ${alignr}${addr eth0}
+Local IP wi-fi ${alignr}${addr wlan1}
+#Public IP ${alignr}${execi 14400 wget -q -O - checkip.dyndns.org|sed -e 's/.*Current IP Address: //' -e 's/<.*$//'}
+
+Кабель
+Down: ${downspeed eth0} ${alignr} Up: ${upspeed eth0}
+${totaldown eth0} ${alignr} ${totalup eth0}
+
+Wi-fi
+Down: ${downspeed wlan0} ${alignr} Up: ${upspeed wlan0}
+${totaldown wlan0} ${alignr} ${totalup wlan0}
+
+CPUtemp 1 ${alignr}${execi 10 sensors coretemp-isa-0000 | grep '+' | cut -b15-16}°C
+CPUtemp 2 ${alignr}${execi 10 sensors coretemp-isa-0001 | grep '+' | cut -b15-16}°C
+HDDtemp ${alignr}${execi 10 netcat localhost 7634 | cut --delimiter '|' --fields 4}°C
+
+/home      ${fs_used /home} ${alignr} ${fs_free /home}
+${fs_size /home} ${alignr} ${fs_bar 8,140 /home}
+
+/sda6       ${fs_used /media/sda6} ${alignr} ${fs_free /media/sda6}
+${fs_size /media/sda6} ${alignr} ${fs_bar 8,140 /media/sda6}
+
+${top name 1} ${alignr} ${top cpu 1}%
+${top name 2} ${alignr} ${top cpu 2}%
+${top name 3} ${alignr} ${top cpu 3}%
+${top name 4} ${alignr} ${top cpu 4}%

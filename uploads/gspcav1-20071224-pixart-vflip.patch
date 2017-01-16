@@ -1,0 +1,85 @@
+diff -ur gspcav1-20071224.orig/decoder/gspcadecoder.c gspcav1-20071224/decoder/gspcadecoder.c
+--- gspcav1-20071224.orig/decoder/gspcadecoder.c	2007-12-24 16:35:27.000000000 +0300
++++ gspcav1-20071224/decoder/gspcadecoder.c	2008-07-04 21:38:07.000000000 +0400
+@@ -589,12 +589,18 @@
+     unsigned char *inp = myframe->data;
+     struct code_table_t *table = myframe->decoder->table;
+     unsigned short word;
+-    int row;
++    int row, inc = width;
++
+     /* skip header */
+     inp += 16;
+     /* and ask to go at pixel +1 ?? */
+     outp++;
+ 
++    if (myframe->spca50x_dev->vflip != 0) {
++	    outp += width * (height - 1) - 1;
++	    inc = -width;
++    }
++
+     /* iterate over all rows */
+     for (row = 0; row < height; row++) {
+ 	word = getShort(inp);
+@@ -606,12 +612,10 @@
+ 	case 0x1EE1:
+ 	    inp += pac_decompress_row(table, inp, outp, width);
+ 	    break;
+-
+ 	default:
+-
+ 	    return -1;
+ 	}
+-	outp += width;
++	outp += inc;
+     }
+ 
+     return 0;
+diff -ur gspcav1-20071224.orig/gspca_core.c gspcav1-20071224/gspca_core.c
+--- gspcav1-20071224.orig/gspca_core.c	2007-12-24 19:56:47.000000000 +0300
++++ gspcav1-20071224/gspca_core.c	2008-07-04 21:38:07.000000000 +0400
+@@ -105,6 +105,9 @@
+ /* force sensor id*/
+ static int force_sensor_id=-1;
+ static int force_gamma_id=-1;
++/* Flip image vertically */
++static int vflip = 0;
++
+ module_param(autoexpo, int, 0644);
+ module_param(debug, int, 0644);
+ module_param(force_rgb, int, 0644);
+@@ -127,6 +130,7 @@
+ #endif
+ module_param(force_sensor_id, int, 0644);
+ module_param(force_gamma_id, int, 0644);
++module_param(vflip, int, 0644);
+ 
+ MODULE_PARM_DESC(autoexpo,
+ 		 "Enable/Disable auto exposure (default=1: enabled) (PC-CAM 600/Zc03xx/spca561a/Etoms Only !!!)");
+@@ -154,6 +158,7 @@
+ #endif				/* SPCA5XX_ENABLE_REGISTERPLAY */
+ MODULE_PARM_DESC(force_gamma_id, "Forced assigning ID of contrast settings (0=default,1,2,3) Zc03xx only");
+ MODULE_PARM_DESC(force_sensor_id, "Forced assigning ID sensor (Zc03xx only). Dangerous, only for experts !!!");
++MODULE_PARM_DESC(vflip, "Flip image vertically");
+ 
+ /****************/
+ MODULE_AUTHOR
+@@ -4281,6 +4286,7 @@
+ 		spca50x->last_times = 0;
+ 		spca50x->dtimes = 0;
+ 		spca50x->autoexpo = autoexpo;
++		spca50x->vflip = vflip;
+ 		init_MUTEX(&spca50x->lock);	/* to 1 == available */
+ 		init_MUTEX(&spca50x->buf_lock);
+ #if LINUX_VERSION_CODE >= KERNEL_VERSION(2, 6, 10)
+diff -ur gspcav1-20071224.orig/gspca.h gspcav1-20071224/gspca.h
+--- gspcav1-20071224.orig/gspca.h	2007-12-24 19:56:47.000000000 +0300
++++ gspcav1-20071224/gspca.h	2008-07-04 21:38:07.000000000 +0400
+@@ -417,6 +417,7 @@
+ 	int whiteness;
+ 	int exposure;		// used by spca561 
+ 	int autoexpo;
++	int vflip;
+ 	int qindex;
+ 	int width;		/* use here for the init of each frame */
+ 	int height;

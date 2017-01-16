@@ -1,0 +1,17 @@
+---
+id: 964
+title: Перерыв в работе. Бережем глаза.
+date: 2010-04-28T19:56:27+00:00
+author: vanoc
+layout: post
+guid: http://vanoc.ru/?p=964
+permalink: /ubuntu/pereryv-v-rabote-berezhem-glaza/
+dsq_thread_id:
+  - "164630831"
+categories:
+  - runix
+  - ubuntu
+---
+[<img class="aligncenter size-medium wp-image-965" title="Перерыв в работе" src="http://vanoc.ru/uploads/2010/04/time-300x247.png" alt="" width="300" height="247" srcset="http://vanoc.ru/uploads/2010/04/time-300x247.png 300w, http://vanoc.ru/uploads/2010/04/time.png 642w" sizes="(max-width: 300px) 100vw, 300px" />](http://vanoc.ru/uploads/2010/04/time.png)
+  
+Не все знают, что в гноме есть очень полезная напоминалка о перерыве в работе (Система- Параметры &#8212; Клавиатура) Программа блокирует экран после часа работы на 3 минуты. Именно работы, т.к. если в течение часа клавиатура и мышка не использовались время не учитывается. Если экран затухал время сбрасывается. Вообще 3-х минут как раз хватает на пару раз подтянуться и выйти на балкон глотнуть свежего воздуха. Заодно и глаза отдохнут, не казенные же.
