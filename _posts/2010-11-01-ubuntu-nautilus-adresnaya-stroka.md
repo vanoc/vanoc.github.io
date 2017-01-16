@@ -4,7 +4,7 @@ title: Ubuntu. Nautilus. Адресная строка.
 date: 2010-11-01T23:29:41+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1076
+guid: /?p=1076
 permalink: /ubuntu/ubuntu-nautilus-adresnaya-stroka/
 categories:
   - runix

@@ -4,7 +4,7 @@ title: rar и кракозябры
 date: 2010-12-09T18:14:20+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1132
+guid: /?p=1132
 permalink: /ubuntu/rar-i-krakozyabryi/
 categories:
   - runix

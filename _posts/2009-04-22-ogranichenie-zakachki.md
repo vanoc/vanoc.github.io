@@ -4,7 +4,7 @@ title: ограничение закачки
 date: 2009-04-22T12:34:24+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=475
+guid: /?p=475
 permalink: /ubuntu/ogranichenie-zakachki/
 ljID:
   - "273"

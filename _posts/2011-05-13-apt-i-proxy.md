@@ -4,7 +4,7 @@ title: apt и proxy
 date: 2011-05-13T14:13:16+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1169
+guid: /?p=1169
 permalink: /ubuntu/apt-i-proxy/
 categories:
   - runix

@@ -4,7 +4,7 @@ title: прозрачность conky в KDE
 date: 2010-11-11T02:12:27+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1082
+guid: /?p=1082
 permalink: /ubuntu/prozrachnost-conky-v-kde/
 categories:
   - runix
@@ -25,4 +25,4 @@ own_window_type normal`
   
 `#own_window_colour black`
 
-Пример: мой файл [.conkyrc](http://vanoc.ru/files/.conkyrc)
+Пример: мой файл [.conkyrc](/files/.conkyrc)

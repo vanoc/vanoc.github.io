@@ -4,7 +4,7 @@ title: Управление автозагрузкой
 date: 2009-04-24T20:32:36+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=476
+guid: /?p=476
 permalink: /ubuntu/upravlenie-zagruzkoj/
 ljID:
   - "274"
@@ -26,7 +26,7 @@ tags:
 
 **rcconf**
   
-[<img src="http://vanoc.ru/uploads/2009/04/vanoc@vanoc-pc--300x186.png" alt="" title="rcconf" width="300" height="186" class="alignnone size-medium wp-image-736" srcset="http://vanoc.ru/uploads/2009/04/vanoc@vanoc-pc--300x186.png 300w, http://vanoc.ru/uploads/2009/04/vanoc@vanoc-pc-.png 660w" sizes="(max-width: 300px) 100vw, 300px" />](http://vanoc.ru/uploads/2009/04/vanoc@vanoc-pc-.png)
+[<img src="/uploads/2009/04/vanoc@vanoc-pc--300x186.png" alt="" title="rcconf" width="300" height="186" class="alignnone size-medium wp-image-736" srcset="/uploads/2009/04/vanoc@vanoc-pc--300x186.png 300w, /uploads/2009/04/vanoc@vanoc-pc-.png 660w" sizes="(max-width: 300px) 100vw, 300px" />](/uploads/2009/04/vanoc@vanoc-pc-.png)
   
 Самая простая утилита. Пробелом выбираем чему загружаться, а чему нет. 
 
@@ -61,7 +61,7 @@ vanoc@laptop:~$`
 
 **sysv-rc-conf**
   
-[<img class="alignnone size-medium wp-image-477" title="sysv-rc-conf" src="http://vanoc.ru/uploads/sysv-rc-conf-300x212.png" alt="sysv-rc-conf" width="300" height="212" srcset="http://vanoc.ru/uploads/sysv-rc-conf-300x212.png 300w, http://vanoc.ru/uploads/sysv-rc-conf.png 663w" sizes="(max-width: 300px) 100vw, 300px" />](http://vanoc.ru/uploads/sysv-rc-conf.png)
+[<img class="alignnone size-medium wp-image-477" title="sysv-rc-conf" src="/uploads/sysv-rc-conf-300x212.png" alt="sysv-rc-conf" width="300" height="212" srcset="/uploads/sysv-rc-conf-300x212.png 300w, /uploads/sysv-rc-conf.png 663w" sizes="(max-width: 300px) 100vw, 300px" />](/uploads/sysv-rc-conf.png)
   
 Достаточно убрать пробелом крестики и выбранный процесс грузиться не будет. -/+ остановка/запуск процесса. q &#8212; выход.
 

@@ -4,7 +4,7 @@ title: localepurge удаление лишних локалей
 date: 2010-07-25T20:59:31+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=992
+guid: /?p=992
 permalink: /ubuntu/localepurge-udalenie-lishnix-lokalej/
 dsq_thread_id:
   - "164630856"
@@ -22,7 +22,7 @@ tags:
 
 Во время установки программа предложит выбрать необходимые локали.
 
-[<img class="aligncenter size-medium wp-image-993" title="localepurge" src="http://vanoc.ru/uploads/2010/07/localepurge-300x199.png" alt="" width="300" height="199" srcset="http://vanoc.ru/uploads/2010/07/localepurge-300x199.png 300w, http://vanoc.ru/uploads/2010/07/localepurge.png 658w" sizes="(max-width: 300px) 100vw, 300px" />](http://vanoc.ru/uploads/2010/07/localepurge.png)
+[<img class="aligncenter size-medium wp-image-993" title="localepurge" src="/uploads/2010/07/localepurge-300x199.png" alt="" width="300" height="199" srcset="/uploads/2010/07/localepurge-300x199.png 300w, /uploads/2010/07/localepurge.png 658w" sizes="(max-width: 300px) 100vw, 300px" />](/uploads/2010/07/localepurge.png)
   
 **Будьте осторожны с выбором локалей, иначе неправильный выбор может повлечь удаление всех файлов локалей, даже тех, которые вы используете. После этого восстановить их можно будет только переустановкой всех пакетов, их предоставляющих.** 
 

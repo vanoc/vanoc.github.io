@@ -4,7 +4,7 @@ title: Автозапуск виртуальной машины в Citrix XenSer
 date: 2014-03-03T15:05:35+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1591
+guid: /?p=1591
 permalink: /linux/avtozapusk-virtualnoy-mashinyi-v-citrix-xenserver-6-2/
 categories:
   - linux

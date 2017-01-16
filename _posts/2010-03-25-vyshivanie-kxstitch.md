@@ -4,7 +4,7 @@ title: Вышивание. KXStitch.
 date: 2010-03-25T23:04:04+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=951
+guid: /?p=951
 permalink: /ubuntu/vyshivanie-kxstitch/
 dsq_thread_id:
   - "164630821"
@@ -21,4 +21,4 @@ tags:
 
 Сам в вышивании не разбираюсь, но вроде есть вышивание крестиком, всякие половинчатые стяжки, четвертные, французская стяжка и даже не знаю как остальные варианты переводятся. Номера цветов и даже возможность задания определенному цвету своего символа.
 
-[<img class="aligncenter size-medium wp-image-952" title="KXStitch" src="http://vanoc.ru/uploads/2010/03/KXStitch-300x175.png" alt="" width="300" height="175" srcset="http://vanoc.ru/uploads/2010/03/KXStitch-300x175.png 300w, http://vanoc.ru/uploads/2010/03/KXStitch-1024x600.png 1024w, http://vanoc.ru/uploads/2010/03/KXStitch.png 1280w" sizes="(max-width: 300px) 100vw, 300px" />](http://vanoc.ru/uploads/2010/03/KXStitch.png)
+[<img class="aligncenter size-medium wp-image-952" title="KXStitch" src="/uploads/2010/03/KXStitch-300x175.png" alt="" width="300" height="175" srcset="/uploads/2010/03/KXStitch-300x175.png 300w, /uploads/2010/03/KXStitch-1024x600.png 1024w, /uploads/2010/03/KXStitch.png 1280w" sizes="(max-width: 300px) 100vw, 300px" />](/uploads/2010/03/KXStitch.png)

@@ -4,7 +4,7 @@ title: Новый supaplex
 date: 2010-11-30T02:02:17+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1093
+guid: /?p=1093
 permalink: /igryi/novyiy-supaplex/
 categories:
   - linux
@@ -13,7 +13,7 @@ categories:
 tags:
   - supaplex
 ---
-[<img class="aligncenter size-full wp-image-1095" title="supaplex" src="http://vanoc.ru/uploads/2010/11/supaplex_s.jpg" alt="" />](http://vanoc.ru/uploads/2010/11/supaplex.jpg)
+[<img class="aligncenter size-full wp-image-1095" title="supaplex" src="/uploads/2010/11/supaplex_s.jpg" alt="" />](/uploads/2010/11/supaplex.jpg)
 
 Оказывается автор не забыл о своем проекте и спустя два года выпустил обновление.
 

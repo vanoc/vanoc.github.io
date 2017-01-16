@@ -4,7 +4,7 @@ title: Запуск X приложений на удаленном компе ч
 date: 2010-01-05T17:47:12+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=721
+guid: /?p=721
 permalink: /ubuntu/zapusk-x-prilozhenij-na-udalennom-kompe-cherez-ssh/
 dsq_thread_id:
   - "164630698"

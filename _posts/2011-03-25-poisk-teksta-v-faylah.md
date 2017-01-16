@@ -4,7 +4,7 @@ title: Поиск текста в файлах
 date: 2011-03-25T17:58:54+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1153
+guid: /?p=1153
 permalink: /linux/poisk-teksta-v-faylah/
 categories:
   - linux

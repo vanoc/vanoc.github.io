@@ -19,7 +19,7 @@ tags:
   - last.fm
   - vagalume
 ---
-[<img class="alignnone size-medium wp-image-428" title="vagalume" src="http://vanoc.ru/uploads/vagalume-300x174.jpg" alt="vagalume" width="300" height="175" />](http://vanoc.ru/uploads/vagalume.jpg)
+[<img class="alignnone size-medium wp-image-428" title="vagalume" src="/uploads/vagalume-300x174.jpg" alt="vagalume" width="300" height="175" />](/uploads/vagalume.jpg)
 
 неплохой проигрыватель last.fm радио. можно прослушивать свое радио, радио друзей, скачивать музыку, устанавливать статусом в pidgin, gajim и т.д.
 

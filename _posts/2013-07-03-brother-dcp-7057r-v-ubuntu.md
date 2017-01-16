@@ -4,7 +4,7 @@ title: Brother DCP-7057R в ubuntu
 date: 2013-07-03T11:00:05+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1477
+guid: /?p=1477
 permalink: /ubuntu/brother-dcp-7057r-v-ubuntu/
 categories:
   - ubuntu

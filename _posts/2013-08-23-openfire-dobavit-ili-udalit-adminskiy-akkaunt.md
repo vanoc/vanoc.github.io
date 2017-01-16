@@ -4,7 +4,7 @@ title: openfire добавить или удалить админский акк
 date: 2013-08-23T15:57:08+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1492
+guid: /?p=1492
 permalink: /linux/openfire-dobavit-ili-udalit-adminskiy-akkaunt/
 categories:
   - linux

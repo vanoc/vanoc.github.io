@@ -4,7 +4,7 @@ title: cron flock
 date: 2013-11-19T18:39:58+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1549
+guid: /?p=1549
 permalink: /linux/cron-flock/
 categories:
   - linux

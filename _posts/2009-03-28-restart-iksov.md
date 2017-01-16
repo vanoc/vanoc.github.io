@@ -4,7 +4,7 @@ title: рестарт иксов
 date: 2009-03-28T21:32:29+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=467
+guid: /?p=467
 permalink: /ubuntu/restart-iksov/
 ljID:
   - "270"

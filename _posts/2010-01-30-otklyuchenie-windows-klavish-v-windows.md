@@ -4,7 +4,7 @@ title: Отключение windows клавиш в windows
 date: 2010-01-30T19:16:53+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=800
+guid: /?p=800
 permalink: /windows/otklyuchenie-windows-klavish-v-windows/
 dsq_thread_id:
   - "164630732"

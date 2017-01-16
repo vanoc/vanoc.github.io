@@ -4,7 +4,7 @@ title: Parcellite менеджер буфера обмена
 date: 2009-11-27T21:32:28+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=630
+guid: /?p=630
 permalink: /ubuntu/parcellite-menedzher-bufera-obmena/
 dsq_thread_id:
   - "164630691"
@@ -24,11 +24,11 @@ Klipper не подходит из-за того, что кдешный.
 
 А Parcellite очень даже понравился.
 
-<img class="alignnone size-full wp-image-631" title="Parcellite" src="http://vanoc.ru/uploads/2009/11/Parcellite.png" alt="Parcellite" width="358" height="193" srcset="http://vanoc.ru/uploads/2009/11/Parcellite.png 358w, http://vanoc.ru/uploads/2009/11/Parcellite-300x161.png 300w" sizes="(max-width: 358px) 100vw, 358px" />
+<img class="alignnone size-full wp-image-631" title="Parcellite" src="/uploads/2009/11/Parcellite.png" alt="Parcellite" width="358" height="193" srcset="/uploads/2009/11/Parcellite.png 358w, /uploads/2009/11/Parcellite-300x161.png 300w" sizes="(max-width: 358px) 100vw, 358px" />
 
 Имеет несколько вкладок не сложных настроек.
 
-<img class="alignnone size-full wp-image-632" title="Parcellite" src="http://vanoc.ru/uploads/2009/11/Parcellite1.png" alt="Parcellite" width="384" height="407" srcset="http://vanoc.ru/uploads/2009/11/Parcellite1.png 384w, http://vanoc.ru/uploads/2009/11/Parcellite1-283x300.png 283w" sizes="(max-width: 384px) 100vw, 384px" />
+<img class="alignnone size-full wp-image-632" title="Parcellite" src="/uploads/2009/11/Parcellite1.png" alt="Parcellite" width="384" height="407" srcset="/uploads/2009/11/Parcellite1.png 384w, /uploads/2009/11/Parcellite1-283x300.png 283w" sizes="(max-width: 384px) 100vw, 384px" />
 
 Устанавливается элементарно.
 

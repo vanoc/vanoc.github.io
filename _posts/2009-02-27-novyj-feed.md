@@ -4,7 +4,7 @@ title: новый feed
 date: 2009-02-27T18:15:25+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=458
+guid: /?p=458
 permalink: /blog/novyj-feed/
 ljID:
   - "266"

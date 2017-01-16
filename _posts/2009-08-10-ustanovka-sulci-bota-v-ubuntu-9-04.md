@@ -4,7 +4,7 @@ title: установка sulci бота в ubuntu 9.04
 date: 2009-08-10T19:46:03+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=488
+guid: /?p=488
 permalink: /ubuntu/ustanovka-sulci-bota-v-ubuntu-9-04/
 ljID:
   - "279"
@@ -34,7 +34,7 @@ Sulci взять можно отсюда [files.jabber.ru/sulci](http://files.ja
 
 `make`
 
-Для работы бота потребуется словарь Mueller24.koi. Качаем его, например, [отсюда](http://vanoc.ru/files/Mueller24.tgz)
+Для работы бота потребуется словарь Mueller24.koi. Качаем его, например, [отсюда](/files/Mueller24.tgz)
 
 Директорию dict можно распаковать в папку с ботом, т.е. sulci.r318.src/sulci/
 

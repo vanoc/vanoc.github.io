@@ -4,7 +4,7 @@ title: samba, пароль к шаре
 date: 2014-07-04T18:01:09+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1675
+guid: /?p=1675
 permalink: /centos/samba-parol-k-share/
 categories:
   - centos

@@ -4,7 +4,7 @@ title: 'Clamav: игнорировать сигнатуру'
 date: 2016-08-10T16:47:37+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1864
+guid: /?p=1864
 permalink: /centos/clamav-ignorirovat-signaturu/
 categories:
   - centos

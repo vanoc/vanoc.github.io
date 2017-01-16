@@ -30,11 +30,11 @@ tags:
 
 очень радует, что в наутилусе теперь есть вкладки. непонятно только почему включили с состав кде-шный Dolphin. у которого, как оказалось есть проблемы как с кодировкой
 
-[<img class="alignnone size-medium wp-image-339" title="dolphin" src="http://vanoc.ru/uploads/dolphin-300x27.jpg" alt="" width="300" height="27" />](http://vanoc.ru/uploads/dolphin.jpg)
+[<img class="alignnone size-medium wp-image-339" title="dolphin" src="/uploads/dolphin-300x27.jpg" alt="" width="300" height="27" />](/uploads/dolphin.jpg)
 
 так и с невозможностью открывать файлы в dolphin из наутилуса.
 
-[<img class="alignnone size-medium wp-image-337" title="dolhin_bug" src="http://vanoc.ru/uploads/dolhin_bug-300x10.jpg" alt="" width="300" height="10" />](http://vanoc.ru/uploads/dolhin_bug.jpg)
+[<img class="alignnone size-medium wp-image-337" title="dolhin_bug" src="/uploads/dolhin_bug-300x10.jpg" alt="" width="300" height="10" />](/uploads/dolhin_bug.jpg)
 
 ну да бог с ним с дельфином. я все-равно им не пользуюсь.
 

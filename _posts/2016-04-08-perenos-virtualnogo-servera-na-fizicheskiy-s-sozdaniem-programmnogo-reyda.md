@@ -4,7 +4,7 @@ title: Перенос виртуального сервера на физиче�
 date: 2016-04-08T11:15:19+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1807
+guid: /?p=1807
 permalink: /centos/perenos-virtualnogo-servera-na-fizicheskiy-s-sozdaniem-programmnogo-reyda/
 categories:
   - centos

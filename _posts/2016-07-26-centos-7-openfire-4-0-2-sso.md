@@ -4,7 +4,7 @@ title: centos 7 + openfire 4.0.2 + SSO
 date: 2016-07-26T18:32:23+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1840
+guid: /?p=1840
 permalink: /centos/centos-7-openfire-4-0-2-sso/
 categories:
   - centos

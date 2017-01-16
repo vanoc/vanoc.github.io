@@ -4,7 +4,7 @@ title: Skype Call Recorder
 date: 2009-03-05T23:44:38+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=462
+guid: /?p=462
 permalink: /ubuntu/skype-call-recorder/
 ljID:
   - "268"

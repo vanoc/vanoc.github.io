@@ -4,7 +4,7 @@ title: mysqldump crontab
 date: 2011-09-29T08:58:30+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1236
+guid: /?p=1236
 permalink: /blog/mysqldump-crontab/
 categories:
   - linux

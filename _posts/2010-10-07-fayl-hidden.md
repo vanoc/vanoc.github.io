@@ -4,7 +4,7 @@ title: файл .hidden
 date: 2010-10-07T07:41:03+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1064
+guid: /?p=1064
 permalink: /ubuntu/fayl-hidden/
 dsq_thread_id:
   - "164630867"

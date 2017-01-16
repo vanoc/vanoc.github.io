@@ -25,7 +25,7 @@ tags:
 собрал это чудо. оказалось оно основано на псях (psi). в процессе сборки выдало толи ошибку толи нет (какой-то странный error), но через минутку сборка продолжилась. визуально понравилась программа. сделано красиво, ничего лишнего.
 
 <p style="text-align: center;">
-  <a href="http://vanoc.ru/uploads/screenshot.jpg"><img class="alignnone size-medium wp-image-314" title="screenshot" src="http://vanoc.ru/uploads/screenshot-300x187.jpg" alt="" width="300" height="187" /></a>
+  <a href="/uploads/screenshot.jpg"><img class="alignnone size-medium wp-image-314" title="screenshot" src="/uploads/screenshot-300x187.jpg" alt="" width="300" height="187" /></a>
 </p>
 
 из минусов &#8212; отсутствие возможности передачи файлов.

@@ -16,4 +16,6 @@ tags:
 ---
 Приготовили сегодня. Скажу сразу получилось оч вкусно. Вот готовилось довольно таки необычно :)
 
-[<img class="alignnone size-thumbnail wp-image-911" title="1" src="http://vanoc.ru/uploads/2008/01/12-150x150.jpg" alt="" width="150" height="150" />](http://vanoc.ru/uploads/2008/01/12.jpg) [<img class="alignnone size-thumbnail wp-image-912" title="2" src="http://vanoc.ru/uploads/2008/01/21-150x150.jpg" alt="" width="150" height="150" />](http://vanoc.ru/uploads/2008/01/21.jpg)
+[<img class="alignnone size-thumbnail wp-image-911" title="1" src="/uploads/2008/01/12-150x150.jpg" alt="" width="150" height="150" />](/uploads/2008/01/12.jpg) [<img class="alignnone size-thumbnail wp-image-912" title="2" src="/uploads/2008/01/21-150x150.jpg" alt="" width="150" height="150" />](/uploads/2008/01/21.jpg)
+
+

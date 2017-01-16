@@ -4,7 +4,7 @@ title: Turpial +1 твиттер клиент
 date: 2011-03-31T16:59:28+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1163
+guid: /?p=1163
 permalink: /linux/turpial-1-tvitter-klient/
 categories:
   - linux
@@ -17,7 +17,7 @@ tags:
 
 Из минусов, пожалуй, странная реализация перехода по ссылкам и некрасивый оранжевый цвет выделенной записи.
 
-[<img class="aligncenter size-medium wp-image-1164" title="turpial" src="http://vanoc.ru/uploads/2011/03/turpial-227x300.png" alt="" />](http://vanoc.ru/uploads/2011/03/turpial.png)
+[<img class="aligncenter size-medium wp-image-1164" title="turpial" src="/uploads/2011/03/turpial-227x300.png" alt="" />](/uploads/2011/03/turpial.png)
 
 Иконки в трее выглядят довольно симпатично.
 

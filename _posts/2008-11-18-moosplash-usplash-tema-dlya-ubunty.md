@@ -20,7 +20,7 @@ tags:
 ---
 заменяем стандартный ubuntu usplash на moosplash
 
- <img class="alignnone size-medium wp-image-393" title="usplash-default" src="http://vanoc.ru/uploads/usplash-default-300x178.jpg" alt="" width="145" height="86" /><img class="alignnone size-medium wp-image-392" title="moo" src="http://vanoc.ru/uploads/moo-300x187.jpg" alt="" width="143" height="86" />
+ <img class="alignnone size-medium wp-image-393" title="usplash-default" src="/uploads/usplash-default-300x178.jpg" alt="" width="145" height="86" /><img class="alignnone size-medium wp-image-392" title="moo" src="/uploads/moo-300x187.jpg" alt="" width="143" height="86" />
 
 для установки нужно отредактировать sources.list
   
@@ -50,4 +50,4 @@ deb-src http://ppa.launchpad.net/corenominal/ubuntu hardy main`
 
 теперь при включении и выключении компа можно видеть вот такую забавную коровку
 
-<img class="alignnone size-full wp-image-392" title="moo" src="http://vanoc.ru/uploads/moo.jpg" alt="" width="463" height="289" />
+<img class="alignnone size-full wp-image-392" title="moo" src="/uploads/moo.jpg" alt="" width="463" height="289" />

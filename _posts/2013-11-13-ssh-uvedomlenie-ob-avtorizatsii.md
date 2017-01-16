@@ -4,7 +4,7 @@ title: SSH уведомление об авторизации
 date: 2013-11-13T14:22:06+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1533
+guid: /?p=1533
 permalink: /linux/ssh-uvedomlenie-ob-avtorizatsii/
 categories:
   - linux

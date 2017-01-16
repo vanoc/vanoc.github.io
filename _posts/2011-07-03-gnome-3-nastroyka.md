@@ -4,7 +4,7 @@ title: Gnome 3 настройка
 date: 2011-07-03T14:05:24+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1187
+guid: /?p=1187
 permalink: /runix/gnome-3-nastroyka/
 categories:
   - arch

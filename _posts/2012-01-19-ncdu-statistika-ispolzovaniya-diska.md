@@ -4,7 +4,7 @@ title: ncdu статистика использования диска
 date: 2012-01-19T00:09:54+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1280
+guid: /?p=1280
 permalink: /linux/ncdu-statistika-ispolzovaniya-diska/
 categories:
   - linux
@@ -18,6 +18,6 @@ tags:
   
 `sudo ncdu -x /`
   
-<img class="aligncenter size-full wp-image-1281" title="ncdu" src="http://vanoc.ru/uploads/2012/01/ncdu.png" alt="" width="500" height="383" srcset="http://vanoc.ru/uploads/2012/01/ncdu.png 500w, http://vanoc.ru/uploads/2012/01/ncdu-300x229.png 300w" sizes="(max-width: 500px) 100vw, 500px" />
+<img class="aligncenter size-full wp-image-1281" title="ncdu" src="/uploads/2012/01/ncdu.png" alt="" width="500" height="383" srcset="/uploads/2012/01/ncdu.png 500w, /uploads/2012/01/ncdu-300x229.png 300w" sizes="(max-width: 500px) 100vw, 500px" />
   
 Утилита умеет удалять, пересчитывать, сортировать и прочее. Полная информация в man и shift+? в программе.

@@ -4,7 +4,7 @@ title: Avatar и мысли о 3D
 date: 2010-03-12T02:29:35+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=938
+guid: /?p=938
 permalink: /kino/avatar-i-mysli-o-3d/
 dsq_thread_id:
   - "164630768"

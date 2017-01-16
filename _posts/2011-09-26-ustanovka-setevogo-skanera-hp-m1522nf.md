@@ -4,7 +4,7 @@ title: Установка сетевого сканера HP m1522nf
 date: 2011-09-26T00:54:09+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1221
+guid: /?p=1221
 permalink: /windows/ustanovka-setevogo-skanera-hp-m1522nf/
 categories:
   - windows

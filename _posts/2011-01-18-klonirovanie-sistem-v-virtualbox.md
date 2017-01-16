@@ -4,7 +4,7 @@ title: Клонирование систем в Virtualbox
 date: 2011-01-18T13:31:11+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1140
+guid: /?p=1140
 permalink: /ubuntu/klonirovanie-sistem-v-virtualbox/
 categories:
   - linux

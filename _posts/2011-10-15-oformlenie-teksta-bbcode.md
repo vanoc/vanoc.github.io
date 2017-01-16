@@ -4,7 +4,7 @@ title: Оформление текста BBCode
 date: 2011-10-15T23:42:23+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1242
+guid: /?p=1242
 permalink: /vsyak-razn/oformlenie-teksta-bbcode/
 categories:
   - всяк-разн

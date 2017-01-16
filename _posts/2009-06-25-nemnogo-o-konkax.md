@@ -4,7 +4,7 @@ title: Немного о коньках
 date: 2009-06-25T13:24:28+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=480
+guid: /?p=480
 permalink: /ubuntu/nemnogo-o-konkax/
 ljID:
   - "276"
@@ -22,7 +22,7 @@ tags:
   - hddtemp
   - sensors
 ---
-<img class="alignnone size-full wp-image-492" title="conky" src="http://vanoc.ru/uploads/2009/06/conky.png" alt="conky" width="263" height="258" />
+<img class="alignnone size-full wp-image-492" title="conky" src="/uploads/2009/06/conky.png" alt="conky" width="263" height="258" />
 
 На данный момент от conky мне нужно не много. Ниже что и как делал.
 
@@ -48,7 +48,7 @@ tags:
 
 `sudo /etc/init.d/hddtemp start`
 
-Для запуска conky потребуется создать файл настроек в домашней директории. Вот мой файл [.conkyrc](http://vanoc.ru/uploads/.conkyrc).
+Для запуска conky потребуется создать файл настроек в домашней директории. Вот мой файл [.conkyrc](/uploads/.conkyrc).
 
 Температура ядер выводится строками
 

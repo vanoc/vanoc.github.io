@@ -19,7 +19,7 @@ tags:
 ---
 плагин для gedit. позволяет изменять кодировку открытого файла.
 
-[](http://vanoc.ru/uploads/d181d0bdd0b8d0bcd0bed0ba.jpg)[<img class="alignnone size-thumbnail wp-image-424" title="d181d0bdd0b8d0bcd0bed0ba" src="http://vanoc.ru/uploads/d181d0bdd0b8d0bcd0bed0ba-150x150.jpg" alt="d181d0bdd0b8d0bcd0bed0ba" width="150" height="150" />](http://vanoc.ru/uploads/d181d0bdd0b8d0bcd0bed0ba.jpg)
+[](/uploads/d181d0bdd0b8d0bcd0bed0ba.jpg)[<img class="alignnone size-thumbnail wp-image-424" title="d181d0bdd0b8d0bcd0bed0ba" src="/uploads/d181d0bdd0b8d0bcd0bed0ba-150x150.jpg" alt="d181d0bdd0b8d0bcd0bed0ba" width="150" height="150" />](/uploads/d181d0bdd0b8d0bcd0bed0ba.jpg)
 
 скачать можно [отсюда](http://bugzilla.gnome.org/attachment.cgi?id=108172&action=view) или [отсюда](http://helicopter.fatal.ru/encoding.tar.bz2)
 

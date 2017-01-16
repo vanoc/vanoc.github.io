@@ -4,7 +4,7 @@ title: checkinstall
 date: 2010-02-01T23:55:15+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=804
+guid: /?p=804
 permalink: /ubuntu/checkinstall/
 categories:
   - runix

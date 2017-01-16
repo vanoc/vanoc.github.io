@@ -4,7 +4,7 @@ title: Проблемы с блогом
 date: 2011-09-26T01:25:39+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1233
+guid: /?p=1233
 permalink: /blog/problemyi-s-blogom/
 categories:
   - блог

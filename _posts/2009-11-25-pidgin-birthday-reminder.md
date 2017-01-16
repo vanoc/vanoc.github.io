@@ -4,7 +4,7 @@ title: 'Pidgin: Birthday Reminder'
 date: 2009-11-25T14:59:38+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=621
+guid: /?p=621
 permalink: /ubuntu/pidgin-birthday-reminder/
 categories:
   - runix
@@ -12,7 +12,7 @@ categories:
 tags:
   - pidgin
 ---
- <img class="alignnone size-full wp-image-627" title="Birthday Reminder" src="http://vanoc.ru/uploads/2009/11/br..png" alt="Birthday Reminder" width="277" height="139" /><img class="alignnone size-full wp-image-628" title="Birthday Reminder" src="http://vanoc.ru/uploads/2009/11/br.png" alt="Birthday Reminder" width="260" height="139" />
+ <img class="alignnone size-full wp-image-627" title="Birthday Reminder" src="/uploads/2009/11/br..png" alt="Birthday Reminder" width="277" height="139" /><img class="alignnone size-full wp-image-628" title="Birthday Reminder" src="/uploads/2009/11/br.png" alt="Birthday Reminder" width="260" height="139" />
 
 Напоминалка о Днях рождения обитателей ростера.
 

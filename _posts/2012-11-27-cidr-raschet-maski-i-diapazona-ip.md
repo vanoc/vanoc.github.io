@@ -4,7 +4,7 @@ title: CIDR Расчет маски и диапазона ip
 date: 2012-11-27T19:10:04+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1400
+guid: /?p=1400
 permalink: /vsyak-razn/cidr-raschet-maski-i-diapazona-ip/
 categories:
   - всяк-разн

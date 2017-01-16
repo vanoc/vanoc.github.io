@@ -4,7 +4,7 @@ title: Arch linux настройка яркости
 date: 2014-03-26T11:50:56+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1598
+guid: /?p=1598
 permalink: /arch/arch-linux-nastroyka-yarkosti/
 categories:
   - arch

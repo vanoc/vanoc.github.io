@@ -4,7 +4,7 @@ title: настройка openDKIM в centos 7
 date: 2015-01-18T22:41:48+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1727
+guid: /?p=1727
 permalink: /centos/nastroyka-opendkim-v-centos-7/
 categories:
   - centos
@@ -82,4 +82,4 @@ non_smtpd_milters = inet:localhost:8891`
 
 Отправляем тестовое письмо и наслаждаемся результатом.
   
-[<img src="http://vanoc.ru/uploads/2015/01/opendkim.png" alt="opendkim" width="481" height="259" class="aligncenter size-full wp-image-1728" srcset="http://vanoc.ru/uploads/2015/01/opendkim.png 481w, http://vanoc.ru/uploads/2015/01/opendkim-300x162.png 300w" sizes="(max-width: 481px) 100vw, 481px" />](http://vanoc.ru/uploads/2015/01/opendkim.png)
+[<img src="/uploads/2015/01/opendkim.png" alt="opendkim" width="481" height="259" class="aligncenter size-full wp-image-1728" srcset="/uploads/2015/01/opendkim.png 481w, /uploads/2015/01/opendkim-300x162.png 300w" sizes="(max-width: 481px) 100vw, 481px" />](/uploads/2015/01/opendkim.png)

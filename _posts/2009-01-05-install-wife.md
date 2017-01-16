@@ -17,4 +17,4 @@ categories:
 tags:
   - ubuntu
 ---
-[<img src="http://vanoc.ru/uploads/ecol-160-e-300x102.png" alt="install wife?" title="install wife?" width="300" height="102" class="alignnone size-medium wp-image-443" srcset="http://vanoc.ru/uploads/ecol-160-e-300x102.png 300w, http://vanoc.ru/uploads/ecol-160-e.png 700w" sizes="(max-width: 300px) 100vw, 300px" />](http://vanoc.ru/uploads/ecol-160-e.png)
+[<img src="/uploads/ecol-160-e-300x102.png" alt="install wife?" title="install wife?" width="300" height="102" class="alignnone size-medium wp-image-443" srcset="/uploads/ecol-160-e-300x102.png 300w, /uploads/ecol-160-e.png 700w" sizes="(max-width: 300px) 100vw, 300px" />](/uploads/ecol-160-e.png)

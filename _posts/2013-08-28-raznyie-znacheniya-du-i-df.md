@@ -4,7 +4,7 @@ title: разные значения du и df
 date: 2013-08-28T13:50:03+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1512
+guid: /?p=1512
 permalink: /linux/raznyie-znacheniya-du-i-df/
 categories:
   - linux

@@ -4,7 +4,7 @@ title: android, wifi и minidlna
 date: 2011-11-04T20:33:15+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1265
+guid: /?p=1265
 permalink: /runix/android-wifi-i-minidlna/
 categories:
   - arch

@@ -4,7 +4,7 @@ title: XenServer увеличение размера диска виртуаль
 date: 2015-10-28T16:17:32+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1769
+guid: /?p=1769
 permalink: /centos/xenserver-uvelichenie-razmera-diska-virtualnoy-mashinyi/
 categories:
   - centos

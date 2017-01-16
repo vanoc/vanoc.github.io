@@ -4,7 +4,7 @@ title: Skype шум, дублирование голоса
 date: 2011-09-26T00:59:34+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1225
+guid: /?p=1225
 permalink: /linux/skype-shum-dublirovanie-golosa/
 categories:
   - arch

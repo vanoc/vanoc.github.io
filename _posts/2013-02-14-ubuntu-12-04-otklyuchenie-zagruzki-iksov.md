@@ -4,7 +4,7 @@ title: Ubuntu 12.04 отключение загрузки иксов
 date: 2013-02-14T10:39:11+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1437
+guid: /?p=1437
 permalink: /ubuntu/ubuntu-12-04-otklyuchenie-zagruzki-iksov/
 categories:
   - runix

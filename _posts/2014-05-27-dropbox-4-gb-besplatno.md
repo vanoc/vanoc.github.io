@@ -4,7 +4,7 @@ title: 'Dropbox 4 гб  бесплатно'
 date: 2014-05-27T13:29:52+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1611
+guid: /?p=1611
 permalink: /vsyak-razn/dropbox-4-gb-besplatno/
 categories:
   - всяк-разн

@@ -4,7 +4,7 @@ title: Команды pidgin
 date: 2010-06-02T19:59:23+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=969
+guid: /?p=969
 permalink: /ubuntu/komandy-pidgin/
 dsq_thread_id:
   - "164630843"

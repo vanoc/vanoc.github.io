@@ -4,7 +4,7 @@ title: Поиск и замена текста в нескольких файл�
 date: 2010-01-11T15:39:51+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=738
+guid: /?p=738
 permalink: /ubuntu/poisk-i-zamena-teksta-v-neskolkix-fajlax/
 dsq_thread_id:
   - "164630722"

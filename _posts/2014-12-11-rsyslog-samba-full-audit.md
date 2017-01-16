@@ -4,7 +4,7 @@ title: rsyslog, samba, full audit
 date: 2014-12-11T17:09:05+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1715
+guid: /?p=1715
 permalink: /centos/rsyslog-samba-full-audit/
 categories:
   - centos

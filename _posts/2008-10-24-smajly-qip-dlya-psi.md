@@ -18,8 +18,8 @@ categories:
 tags:
   - psi
 ---
-[<img class="alignnone size-thumbnail wp-image-345" title="psi_smiles" src="http://vanoc.ru/uploads/psi_smiles-150x150.jpg" alt="" width="150" height="150" />](http://vanoc.ru/uploads/psi_smiles.jpg)
+[<img class="alignnone size-thumbnail wp-image-345" title="psi_smiles" src="/uploads/psi_smiles-150x150.jpg" alt="" width="150" height="150" />](/uploads/psi_smiles.jpg)
 
 распаковываем в скрытую папку .psi в домашней директории, затем в настройках указываем новые смайлы.
 
-[скачать](http://vanoc.ru/uploads/iconsets.rar)
+[скачать](/uploads/iconsets.rar)

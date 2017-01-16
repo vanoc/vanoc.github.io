@@ -4,7 +4,7 @@ title: DLNA IPTV xupnpd
 date: 2013-12-09T17:16:31+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1555
+guid: /?p=1555
 permalink: /kino/dlna-iptv-xupnpd/
 categories:
   - ubuntu

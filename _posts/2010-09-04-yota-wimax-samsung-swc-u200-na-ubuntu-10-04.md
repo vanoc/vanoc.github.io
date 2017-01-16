@@ -4,14 +4,14 @@ title: Yota WiMax Samsung SWC-U200 на ubuntu 10.04
 date: 2010-09-04T19:47:29+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1011
+guid: /?p=1011
 permalink: /ubuntu/yota-wimax-samsung-swc-u200-na-ubuntu-10-04/
 categories:
   - ubuntu
 tags:
   - yota
 ---
-<img class="alignright size-full wp-image-1016" title="yota" src="http://vanoc.ru/uploads/2010/09/yota.png" alt="" width="150" height="141" />Заметка на память.
+<img class="alignright size-full wp-image-1016" title="yota" src="/uploads/2010/09/yota.png" alt="" width="150" height="141" />Заметка на память.
 
 Т.к. в репозиториях ubuntu 10.04 пакет madwimax присутствует, установка сводится к одной команде
 

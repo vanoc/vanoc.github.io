@@ -25,7 +25,7 @@ tags:
 
 перед отъездом я настраивал вебкамеру Genius E-Messenger 112 на 2-м копме. на нем вторая ось &#8212; убунта. скажу  сказжу сразу, что под XP я так и не смог настроить. дурацкая программа (вместо драйверов) поставляемая с камерой постоянно просила dirext 8. однако настроить в убунту удалось, благодаря [ubuntu](http://forum.ubuntu.ru/index.php?topic=29853) форуму. вообщем, камеру настраивал так:
 
-скачал [gspcav1-20071224.tar.gz](http://vanoc.ru/uploads/gspcav1-20071224.tar.gz), [gspcav1-20071224-emessenger112.patch](http://vanoc.ru/uploads/gspcav1-20071224-emessenger112.patch), [gspcav1-20071224-pixart-vflip.patch](http://vanoc.ru/uploads/gspcav1-20071224-pixart-vflip.patch)
+скачал [gspcav1-20071224.tar.gz](/uploads/gspcav1-20071224.tar.gz), [gspcav1-20071224-emessenger112.patch](/uploads/gspcav1-20071224-emessenger112.patch), [gspcav1-20071224-pixart-vflip.patch](/uploads/gspcav1-20071224-pixart-vflip.patch)
 
 затем выполнил в терминале
   

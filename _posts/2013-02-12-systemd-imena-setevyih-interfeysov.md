@@ -4,7 +4,7 @@ title: Systemd имена сетевых интерфейсов
 date: 2013-02-12T22:15:14+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1434
+guid: /?p=1434
 permalink: /linux/systemd-imena-setevyih-interfeysov/
 categories:
   - arch

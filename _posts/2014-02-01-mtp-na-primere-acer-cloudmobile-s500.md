@@ -4,7 +4,7 @@ title: MTP на примере Acer CloudMobile S500
 date: 2014-02-01T22:51:33+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1573
+guid: /?p=1573
 permalink: /arch/mtp-na-primere-acer-cloudmobile-s500/
 categories:
   - arch

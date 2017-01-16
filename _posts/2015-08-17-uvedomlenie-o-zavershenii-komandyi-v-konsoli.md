@@ -4,7 +4,7 @@ title: Уведомление о завершении команды в конс
 date: 2015-08-17T21:50:46+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1754
+guid: /?p=1754
 permalink: /linux/uvedomlenie-o-zavershenii-komandyi-v-konsoli/
 categories:
   - linux

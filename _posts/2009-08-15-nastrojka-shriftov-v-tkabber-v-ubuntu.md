@@ -4,7 +4,7 @@ title: настройка шрифтов tkabber в ubuntu
 date: 2009-08-15T22:35:30+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=504
+guid: /?p=504
 permalink: /ubuntu/nastrojka-shriftov-v-tkabber-v-ubuntu/
 ljID:
   - "281"

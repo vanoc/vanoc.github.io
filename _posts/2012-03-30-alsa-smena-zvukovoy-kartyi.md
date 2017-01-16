@@ -4,7 +4,7 @@ title: Alsa смена звуковой карты
 date: 2012-03-30T07:41:17+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1295
+guid: /?p=1295
 permalink: /runix/alsa-smena-zvukovoy-kartyi/
 categories:
   - arch

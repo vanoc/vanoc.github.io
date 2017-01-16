@@ -4,7 +4,7 @@ title: Менеджер обновлений и его раздражающее 
 date: 2010-10-31T14:52:25+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1070
+guid: /?p=1070
 permalink: /ubuntu/menedzher-obnovleniy-i-ego-razdrazhayushhee-povedenie/
 categories:
   - runix

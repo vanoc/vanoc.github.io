@@ -4,7 +4,7 @@ title: 301 редирект с домена на домен
 date: 2013-11-12T12:01:03+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1528
+guid: /?p=1528
 permalink: /centos/301-redirekt-s-domena-na-domen/
 categories:
   - centos

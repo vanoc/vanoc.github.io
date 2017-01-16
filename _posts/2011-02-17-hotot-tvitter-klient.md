@@ -4,7 +4,7 @@ title: hotot твиттер клиент
 date: 2011-02-17T10:53:51+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1143
+guid: /?p=1143
 permalink: /linux/hotot-tvitter-klient/
 categories:
   - linux
@@ -15,7 +15,7 @@ tags:
 ---
 Многим Gwibber не нравится. Одним из решений будет поставить Hotot. Название конечно не ахти, но клиент интересный и правильный.
 
-[<img class="aligncenter size-medium wp-image-1144" title="hotot" src="http://vanoc.ru/uploads/2011/02/hotot-268x300.png" alt="" width="268" height="300" />](http://vanoc.ru/uploads/2011/02/hotot.png)
+[<img class="aligncenter size-medium wp-image-1144" title="hotot" src="/uploads/2011/02/hotot-268x300.png" alt="" width="268" height="300" />](/uploads/2011/02/hotot.png)
 
 Что умеет?
   

@@ -4,7 +4,7 @@ title: 'dolphin ошибка загрузки &#8216;kio_smb&#8217;'
 date: 2011-06-27T14:37:57+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1184
+guid: /?p=1184
 permalink: /linux/dolphin-oshibka-zagruzki-kio_smb/
 categories:
   - linux

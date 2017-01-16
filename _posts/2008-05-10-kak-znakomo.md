@@ -17,4 +17,4 @@ categories:
 tags:
   - ubuntu
 ---
-<img style="border: 0pt none;" title="sudo" src="http://vanoc.ru/uploads/sudo.png" alt="" width="360" height="299" /></a>
+<img style="border: 0pt none;" title="sudo" src="/uploads/sudo.png" alt="" width="360" height="299" /></a>

@@ -4,7 +4,7 @@ title: настройка brother DCP-7057R в arch linux
 date: 2014-10-21T13:29:59+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1704
+guid: /?p=1704
 permalink: /arch/nastroyka-brother-dcp-7057r-v-arch-linux/
 categories:
   - arch

@@ -4,7 +4,7 @@ title: mtr в текстовый файл
 date: 2013-10-01T23:51:03+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1518
+guid: /?p=1518
 permalink: /linux/mtr-to-text/
 categories:
   - linux

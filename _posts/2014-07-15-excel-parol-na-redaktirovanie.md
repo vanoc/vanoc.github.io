@@ -4,7 +4,7 @@ title: excel пароль на редактирование
 date: 2014-07-15T18:11:17+00:00
 author: vanoc
 layout: post
-guid: http://vanoc.ru/?p=1680
+guid: /?p=1680
 permalink: /windows/excel-parol-na-redaktirovanie/
 categories:
   - windows
