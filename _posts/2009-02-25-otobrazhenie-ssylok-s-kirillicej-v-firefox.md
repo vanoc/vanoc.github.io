@@ -4,7 +4,7 @@ title: Отображение ссылок с кириллицей в firefox
 date: 2009-02-25T12:04:45+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=453
+guid: http://vanoc.ru/?p=453
 permalink: /internet/otobrazhenie-ssylok-s-kirillicej-v-firefox/
 ljID:
   - "264"

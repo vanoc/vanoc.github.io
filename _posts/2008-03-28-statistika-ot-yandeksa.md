@@ -4,7 +4,7 @@ title: статистика от Яндекса
 date: 2008-03-28T10:49:50+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/stati/statistika-ot-yandeksa/
+guid: http://vanoc.ru/stati/statistika-ot-yandeksa/
 permalink: /internet/statistika-ot-yandeksa/
 ljID:
   - "175"

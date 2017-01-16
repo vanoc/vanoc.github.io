@@ -4,7 +4,7 @@ title: вернулся
 date: 2008-03-13T23:09:32+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/vsyak-razn/vernulsya/
+guid: http://vanoc.ru/vsyak-razn/vernulsya/
 permalink: /vsyak-razn/vernulsya/
 ljID:
   - "167"

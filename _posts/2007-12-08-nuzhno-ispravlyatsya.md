@@ -4,7 +4,7 @@ title: нужно исправляться)
 date: 2007-12-08T22:28:17+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/humor/nuzhno-ispravlyatsya/
+guid: http://vanoc.ru/humor/nuzhno-ispravlyatsya/
 permalink: /humor/nuzhno-ispravlyatsya/
 ljID:
   - "80"

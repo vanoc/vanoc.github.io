@@ -4,7 +4,7 @@ title: как знакомо :)
 date: 2008-05-10T18:53:22+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=232
+guid: http://vanoc.ru/?p=232
 permalink: /humor/kak-znakomo/
 ljID:
   - "199"

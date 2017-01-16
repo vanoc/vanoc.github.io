@@ -4,7 +4,7 @@ title: wi-fi ubuntu и asus x50sl
 date: 2008-07-06T18:06:19+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=247
+guid: http://vanoc.ru/?p=247
 permalink: /ubuntu/wi-fi-ubuntu-i-asus-x50sl/
 ljID:
   - "212"

@@ -4,7 +4,7 @@ title: вот так вот
 date: 2008-02-09T12:16:36+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/vsyak-razn/vot-tak-vot/
+guid: http://vanoc.ru/vsyak-razn/vot-tak-vot/
 permalink: /vsyak-razn/vot-tak-vot/
 ljID:
   - "148"

@@ -4,7 +4,7 @@ title: авторесайз изображений в наутилусе
 date: 2008-11-02T16:31:19+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=362
+guid: http://vanoc.ru/?p=362
 permalink: /ubuntu/avtoresajz-izobrazhenij-v-nautiluse/
 ljID:
   - "245"

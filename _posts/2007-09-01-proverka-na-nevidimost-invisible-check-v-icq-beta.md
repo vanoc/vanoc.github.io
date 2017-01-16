@@ -4,7 +4,7 @@ title: Проверка на невидимость (Invisible-check) в ICQ
 date: 2007-09-01T17:58:07+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/internet/proverka-na-nevidimost-invisible-check-v-icq-beta/
+guid: http://vanoc.ru/internet/proverka-na-nevidimost-invisible-check-v-icq-beta/
 permalink: /internet/proverka-na-nevidimost-invisible-check-v-icq-beta/
 ljID:
   - "9"

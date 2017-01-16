@@ -4,7 +4,7 @@ title: установка multitran на ubuntu 8.10
 date: 2009-01-06T18:04:28+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=437
+guid: http://vanoc.ru/?p=437
 permalink: /ubuntu/ustanovka-multitran-na-ubuntu-810/
 ljID:
   - "256"

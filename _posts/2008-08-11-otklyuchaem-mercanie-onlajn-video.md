@@ -4,7 +4,7 @@ title: отключаем мерцание в онлайн видео
 date: 2008-08-11T20:26:16+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=277
+guid: http://vanoc.ru/?p=277
 permalink: /ubuntu/otklyuchaem-mercanie-onlajn-video/
 ljID:
   - "229"

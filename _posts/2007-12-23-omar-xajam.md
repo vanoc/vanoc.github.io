@@ -4,7 +4,7 @@ title: Омар Хайам
 date: 2007-12-23T19:46:50+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/stihi/omar-xajam/
+guid: http://vanoc.ru/stihi/omar-xajam/
 permalink: /stihi/omar-xajam/
 ljID:
   - "109"

@@ -4,7 +4,7 @@ title: roboform to keepass
 date: 2008-05-15T22:42:48+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=236
+guid: http://vanoc.ru/?p=236
 permalink: /ubuntu/roboform-to-keepass/
 ljID:
   - "202"

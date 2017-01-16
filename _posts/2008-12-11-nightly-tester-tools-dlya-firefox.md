@@ -4,7 +4,7 @@ title: отключаем проверку на совместимость пл�
 date: 2008-12-11T23:36:25+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=420
+guid: http://vanoc.ru/?p=420
 permalink: /internet/nightly-tester-tools-dlya-firefox/
 ljID:
   - "252"

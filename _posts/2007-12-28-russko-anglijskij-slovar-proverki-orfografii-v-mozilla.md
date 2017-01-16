@@ -4,7 +4,7 @@ title: Русско-английский словарь проверки орф�
 date: 2007-12-28T08:36:37+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/programmyi/russko-anglijskij-slovar-proverki-orfografii-v-mozilla/
+guid: http://vanoc.ru/programmyi/russko-anglijskij-slovar-proverki-orfografii-v-mozilla/
 permalink: /internet/russko-anglijskij-slovar-proverki-orfografii-v-mozilla/
 ljID:
   - "116"

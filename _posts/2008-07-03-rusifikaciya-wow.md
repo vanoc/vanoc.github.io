@@ -4,7 +4,7 @@ title: русификация wow
 date: 2008-07-03T07:30:31+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=246
+guid: http://vanoc.ru/?p=246
 permalink: /games/rusifikaciya-wow/
 ljID:
   - "211"

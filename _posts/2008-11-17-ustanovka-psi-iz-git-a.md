@@ -4,7 +4,7 @@ title: установка psi из git-a
 date: 2008-11-17T23:07:24+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=387
+guid: http://vanoc.ru/?p=387
 permalink: /ubuntu/ustanovka-psi-iz-git-a/
 ljID:
   - "248"

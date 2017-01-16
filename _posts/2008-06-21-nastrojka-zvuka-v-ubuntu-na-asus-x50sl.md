@@ -4,7 +4,7 @@ title: настройка звука в ubuntu на asus x50sl
 date: 2008-06-21T15:21:20+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=240
+guid: http://vanoc.ru/?p=240
 permalink: /ubuntu/nastrojka-zvuka-v-ubuntu-na-asus-x50sl/
 ljID:
   - "206"

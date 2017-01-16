@@ -4,7 +4,7 @@ title: Genius E-Messenger 112 настройка под ubuntu 8.04
 date: 2008-07-26T14:03:41+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=260
+guid: http://vanoc.ru/?p=260
 permalink: /ubuntu/genius-e-messenger-112-nastrojka-pod-ubuntu-804/
 ljID:
   - "226"

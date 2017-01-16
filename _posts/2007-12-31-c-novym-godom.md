@@ -4,7 +4,7 @@ title: C Новым Годом!
 date: 2007-12-31T23:46:22+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/vsyak-razn/c-novym-godom/
+guid: http://vanoc.ru/vsyak-razn/c-novym-godom/
 permalink: /vsyak-razn/c-novym-godom/
 ljID:
   - "121"

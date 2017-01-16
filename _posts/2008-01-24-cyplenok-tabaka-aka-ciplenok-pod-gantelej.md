@@ -4,7 +4,7 @@ title: цыпленок табака aka цыпленок под гантеле�
 date: 2008-01-24T23:20:29+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/vsyak-razn/cyplenok-tabaka-aka-ciplenok-pod-gantelej/
+guid: http://vanoc.ru/vsyak-razn/cyplenok-tabaka-aka-ciplenok-pod-gantelej/
 permalink: /vsyak-razn/cyplenok-tabaka-aka-ciplenok-pod-gantelej/
 ljID:
   - "137"

@@ -4,7 +4,7 @@ title: Wicd автоподключение
 date: 2008-10-30T13:10:58+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=354
+guid: http://vanoc.ru/?p=354
 permalink: /ubuntu/wicd-avtopodklyuchenie/
 ljID:
   - "243"

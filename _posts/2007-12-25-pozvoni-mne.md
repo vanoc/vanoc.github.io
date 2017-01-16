@@ -4,7 +4,7 @@ title: позвони мне
 date: 2007-12-25T22:18:17+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/vsyak-razn/pozvoni-mne/
+guid: http://vanoc.ru/vsyak-razn/pozvoni-mne/
 permalink: /vsyak-razn/pozvoni-mne/
 ljID:
   - "113"

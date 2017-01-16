@@ -4,7 +4,7 @@ title: Как писать в блог, используя Semagic
 date: 2007-09-01T22:24:00+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/vsyak-razn/kak-pisat-v-blog-ispolzuya-semagic/
+guid: http://vanoc.ru/vsyak-razn/kak-pisat-v-blog-ispolzuya-semagic/
 permalink: /internet/kak-pisat-v-blog-ispolzuya-semagic/
 ljID:
   - "11"

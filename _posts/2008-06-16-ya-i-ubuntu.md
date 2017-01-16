@@ -4,7 +4,7 @@ title: я и ubuntu
 date: 2008-06-16T01:28:37+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=239
+guid: http://vanoc.ru/?p=239
 permalink: /ubuntu/ya-i-ubuntu/
 ljID:
   - "205"

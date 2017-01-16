@@ -4,7 +4,7 @@ title: конвертирование wma в mp3
 date: 2008-09-27T14:54:24+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=324
+guid: http://vanoc.ru/?p=324
 permalink: /ubuntu/konvertirovanie-wma-v-mp3/
 ljID:
   - "238"

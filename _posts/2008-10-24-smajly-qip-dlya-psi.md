@@ -4,7 +4,7 @@ title: 'смайлы &#171;qip&#187; для psi'
 date: 2008-10-24T20:55:46+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=343
+guid: http://vanoc.ru/?p=343
 permalink: /ubuntu/smajly-qip-dlya-psi/
 ljID:
   - "241"

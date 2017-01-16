@@ -4,7 +4,7 @@ title: Януш Вишневский. Одиночество в Сети.
 date: 2008-01-17T02:12:18+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/pochitat/yanush-vishnevskij-odinochestvo-v-seti/
+guid: http://vanoc.ru/pochitat/yanush-vishnevskij-odinochestvo-v-seti/
 permalink: /pochitat/yanush-vishnevskij-odinochestvo-v-seti/
 ljID:
   - "132"

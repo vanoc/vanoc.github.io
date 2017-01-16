@@ -4,7 +4,7 @@ title: virtualbox и ubuntu
 date: 2008-07-02T21:21:23+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=245
+guid: http://vanoc.ru/?p=245
 permalink: /archive/virtualbox-i-ubuntu/
 ljID:
   - "210"

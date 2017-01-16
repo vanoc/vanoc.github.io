@@ -4,7 +4,7 @@ title: чемпионат по шашкам
 date: 2008-04-02T13:45:37+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=210
+guid: http://vanoc.ru/?p=210
 permalink: /vsyak-razn/chempionat-po-shashkam/
 ljID:
   - "178"

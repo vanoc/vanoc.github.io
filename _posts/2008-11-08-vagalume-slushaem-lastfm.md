@@ -4,7 +4,7 @@ title: vagalume. слушаем last.fm
 date: 2008-11-08T11:37:23+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=373
+guid: http://vanoc.ru/?p=373
 permalink: /ubuntu/vagalume-slushaem-lastfm/
 ljID:
   - "247"

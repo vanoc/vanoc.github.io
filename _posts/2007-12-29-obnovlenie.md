@@ -4,7 +4,7 @@ title: обновление
 date: 2007-12-29T20:47:44+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/vsyak-razn/obnovlenie/
+guid: http://vanoc.ru/vsyak-razn/obnovlenie/
 permalink: /blog/obnovlenie/
 ljID:
   - "117"

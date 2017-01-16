@@ -4,7 +4,7 @@ title: установка freq бота в ubuntu 8.10
 date: 2008-11-30T22:48:55+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=405
+guid: http://vanoc.ru/?p=405
 permalink: /ubuntu/ustanovka-freq-bota-v-ubuntu-810/
 ljID:
   - "251"

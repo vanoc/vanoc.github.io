@@ -4,7 +4,7 @@ title: 'Открываем *.docx'
 date: 2007-12-16T23:09:24+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/programmyi/otkryivaem-docx/
+guid: http://vanoc.ru/programmyi/otkryivaem-docx/
 permalink: /windows/otkryivaem-docx/
 ljID:
   - "102"

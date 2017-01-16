@@ -4,7 +4,7 @@ title: словарный юмор
 date: 2007-12-31T00:01:41+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/humor/slovarnyj-yumor/
+guid: http://vanoc.ru/humor/slovarnyj-yumor/
 permalink: /humor/slovarnyj-yumor/
 ljID:
   - "120"

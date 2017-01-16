@@ -4,7 +4,7 @@ title: глюкнутый гном
 date: 2008-12-28T00:17:54+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=431
+guid: http://vanoc.ru/?p=431
 permalink: /ubuntu/glyuknutyj-gnom/
 ljID:
   - "254"

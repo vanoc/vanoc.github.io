@@ -4,7 +4,7 @@ title: цветное приглашение в bash
 date: 2009-01-13T17:10:51+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=442
+guid: http://vanoc.ru/?p=442
 permalink: /ubuntu/cvetnoe-priglashenie-v-bash/
 ljID:
   - "258"

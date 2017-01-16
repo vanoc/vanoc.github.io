@@ -4,7 +4,7 @@ title: я на juick-е
 date: 2008-11-19T17:24:52+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=397
+guid: http://vanoc.ru/?p=397
 permalink: /vsyak-razn/ya-na-juick-e/
 ljID:
   - "250"

@@ -4,7 +4,7 @@ title: Permissoin denied
 date: 2008-07-17T23:41:54+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=258
+guid: http://vanoc.ru/?p=258
 permalink: /ubuntu/permissoin-denied/
 ljID:
   - "225"

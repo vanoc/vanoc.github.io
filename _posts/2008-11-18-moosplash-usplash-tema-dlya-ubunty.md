@@ -4,7 +4,7 @@ title: 'moosplash &#8212; usplash тема для убунты'
 date: 2008-11-18T23:23:02+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=391
+guid: http://vanoc.ru/?p=391
 permalink: /ubuntu/moosplash-usplash-tema-dlya-ubunty/
 ljID:
   - "249"

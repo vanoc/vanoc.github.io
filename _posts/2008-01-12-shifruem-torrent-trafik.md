@@ -4,7 +4,7 @@ title: шифруем торрент трафик
 date: 2008-01-12T15:01:39+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/stati/shifruem-torrent-trafik/
+guid: http://vanoc.ru/stati/shifruem-torrent-trafik/
 permalink: /internet/shifruem-torrent-trafik/
 ljID:
   - "131"

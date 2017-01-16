@@ -4,7 +4,7 @@ title: запуск аськи через tor
 date: 2009-02-05T20:04:34+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=445
+guid: http://vanoc.ru/?p=445
 permalink: /ubuntu/zapusk-aski-cherez-tor/
 ljID:
   - "262"

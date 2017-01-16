@@ -4,7 +4,7 @@ title: обновился до 8.10 beta
 date: 2008-10-22T11:16:50+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=333
+guid: http://vanoc.ru/?p=333
 permalink: /ubuntu/obnovilsya-do-810-beta/
 ljID:
   - "240"

@@ -4,7 +4,7 @@ title: jabber и прикол с пробелами
 date: 2008-04-25T10:36:26+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=224
+guid: http://vanoc.ru/?p=224
 permalink: /internet/jabber-i-prikol-s-probelami/
 ljID:
   - "192"

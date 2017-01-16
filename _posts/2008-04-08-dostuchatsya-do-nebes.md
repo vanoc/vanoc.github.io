@@ -4,7 +4,7 @@ title: достучаться до небес
 date: 2008-04-08T12:07:44+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=213
+guid: http://vanoc.ru/?p=213
 permalink: /kino/dostuchatsya-do-nebes/
 ljID:
   - "181"

@@ -4,7 +4,7 @@ title: Установка Windows Media Player 11 на Windows Server 2003
 date: 2008-03-17T16:06:26+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/stati/ustanovka-windows-media-player-11-na-windows-server-2003/
+guid: http://vanoc.ru/stati/ustanovka-windows-media-player-11-na-windows-server-2003/
 permalink: /windows/ustanovka-windows-media-player-11-na-windows-server-2003/
 ljID:
   - "168"

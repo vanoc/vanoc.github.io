@@ -4,7 +4,7 @@ title: еще о ubuntu
 date: 2008-05-11T19:20:51+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=233
+guid: http://vanoc.ru/?p=233
 permalink: /ubuntu/eshhe-o-ubuntu/
 ljID:
   - "200"

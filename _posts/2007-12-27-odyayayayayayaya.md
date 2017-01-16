@@ -4,7 +4,7 @@ title: Одяяяяяяя!!!!!!!
 date: 2007-12-27T03:10:24+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/vsyak-razn/odyayayayayayaya/
+guid: http://vanoc.ru/vsyak-razn/odyayayayayayaya/
 permalink: /vsyak-razn/odyayayayayayaya/
 ljID:
   - "115"

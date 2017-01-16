@@ -4,7 +4,7 @@ title: автомонтирование дисков в ubuntu
 date: 2008-05-14T19:16:23+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=235
+guid: http://vanoc.ru/?p=235
 permalink: /ubuntu/avtomontirovanie-diskov-v-ubuntu/
 ljID:
   - "201"

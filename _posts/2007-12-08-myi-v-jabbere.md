@@ -4,7 +4,7 @@ title: мы в джаббере
 date: 2007-12-08T18:21:27+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/news/myi-v-dzhabbere/
+guid: http://vanoc.ru/news/myi-v-dzhabbere/
 permalink: /vsyak-razn/myi-v-jabbere/
 ljID:
   - "79"

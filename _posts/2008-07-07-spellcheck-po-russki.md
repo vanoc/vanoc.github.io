@@ -4,7 +4,7 @@ title: spellcheck по русски
 date: 2008-07-07T12:50:39+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=248
+guid: http://vanoc.ru/?p=248
 permalink: /ubuntu/spellcheck-po-russki/
 ljID:
   - "220"

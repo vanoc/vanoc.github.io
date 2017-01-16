@@ -4,7 +4,7 @@ title: С Новым Годом!
 date: 2007-12-24T11:12:47+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/humor/s-novym-godom/
+guid: http://vanoc.ru/humor/s-novym-godom/
 permalink: /humor/s-novym-godom/
 ljID:
   - "111"

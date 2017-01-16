@@ -4,7 +4,7 @@ title: Пакетная обработка изображений в Photoshop
 date: 2008-05-01T23:26:04+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=225
+guid: http://vanoc.ru/?p=225
 permalink: /windows/paketnaya-obrabotka-izobrazhenij-v-photoshop/
 ljID:
   - "193"

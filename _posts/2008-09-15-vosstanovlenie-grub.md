@@ -4,7 +4,7 @@ title: восстановление grub
 date: 2008-09-15T17:37:29+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=319
+guid: http://vanoc.ru/?p=319
 permalink: /ubuntu/vosstanovlenie-grub/
 ljID:
   - "236"

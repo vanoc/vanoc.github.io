@@ -4,7 +4,7 @@ title: Я.Онлайн – jabber от яндекса
 date: 2008-09-02T14:31:11+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=304
+guid: http://vanoc.ru/?p=304
 permalink: /internet/yaonlajn-jabber-ot-yandeksa/
 ljID:
   - "232"

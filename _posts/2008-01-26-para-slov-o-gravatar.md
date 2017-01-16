@@ -4,7 +4,7 @@ title: пара слов о Gravatar
 date: 2008-01-26T23:54:29+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/internet/para-slov-o-gravatar/
+guid: http://vanoc.ru/internet/para-slov-o-gravatar/
 permalink: /internet/para-slov-o-gravatar/
 ljID:
   - "138"

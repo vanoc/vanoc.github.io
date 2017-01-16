@@ -4,7 +4,7 @@ title: смена кодировки в gedit
 date: 2008-12-17T18:32:39+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=423
+guid: http://vanoc.ru/?p=423
 permalink: /archive/smena-kodirovki-v-gedit/
 ljID:
   - "253"

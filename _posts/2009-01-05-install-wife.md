@@ -4,7 +4,7 @@ title: install wife?
 date: 2009-01-05T21:31:06+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=433
+guid: http://vanoc.ru/?p=433
 permalink: /humor/install-wife/
 ljID:
   - "255"

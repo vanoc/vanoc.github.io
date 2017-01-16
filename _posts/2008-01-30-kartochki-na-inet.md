@@ -4,7 +4,7 @@ title: карточки на инет
 date: 2008-01-30T20:56:08+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/vsyak-razn/kartochki-na-inet/
+guid: http://vanoc.ru/vsyak-razn/kartochki-na-inet/
 permalink: /vsyak-razn/kartochki-na-inet/
 ljID:
   - "141"

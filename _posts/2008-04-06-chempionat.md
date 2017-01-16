@@ -4,7 +4,7 @@ title: чемпионат
 date: 2008-04-06T11:38:52+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=212
+guid: http://vanoc.ru/?p=212
 permalink: /vsyak-razn/chempionat/
 ljID:
   - "180"

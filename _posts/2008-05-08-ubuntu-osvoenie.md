@@ -4,7 +4,7 @@ title: ubuntu. освоение
 date: 2008-05-08T14:58:29+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=230
+guid: http://vanoc.ru/?p=230
 permalink: /ubuntu/ubuntu-osvoenie/
 ljID:
   - "197"

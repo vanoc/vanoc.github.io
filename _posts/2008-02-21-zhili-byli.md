@@ -4,7 +4,7 @@ title: Жили-Были
 date: 2008-02-21T22:44:04+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/vsyak-razn/zhili-byli/
+guid: http://vanoc.ru/vsyak-razn/zhili-byli/
 permalink: /vsyak-razn/zhili-byli/
 ljID:
   - "156"

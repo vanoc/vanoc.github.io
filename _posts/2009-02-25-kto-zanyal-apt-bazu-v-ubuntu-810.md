@@ -4,7 +4,7 @@ title: Кто занял apt базу? в ubuntu 8.10
 date: 2009-02-25T13:23:14+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=454
+guid: http://vanoc.ru/?p=454
 permalink: /ubuntu/kto-zanyal-apt-bazu-v-ubuntu-810/
 ljID:
   - "265"

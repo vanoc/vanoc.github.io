@@ -4,7 +4,7 @@ title: Я.Онлайн линух версия
 date: 2008-09-06T01:57:05+00:00
 author: vanoc
 layout: post
-guid: http://helicopter.net.ru/?p=309
+guid: http://vanoc.ru/?p=309
 permalink: /linux/yaonlajn-linux-versiya/
 ljID:
   - "234"
