@@ -5,7 +5,7 @@ date: 2013-07-26T17:55:41+00:00
 author: vanoc
 layout: post
 guid: /?p=1484
-permalink: /igryi/android-bomberman-i-lode-runner/
+permalink: /games/android-bomberman-i-lode-runner/
 categories:
   - игры
 tags:

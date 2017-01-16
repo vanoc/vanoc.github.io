@@ -5,7 +5,7 @@ date: 2008-07-03T07:30:31+00:00
 author: vanoc
 layout: post
 guid: http://helicopter.net.ru/?p=246
-permalink: /igryi/rusifikaciya-wow/
+permalink: /games/rusifikaciya-wow/
 ljID:
   - "211"
 ljxp_comments:

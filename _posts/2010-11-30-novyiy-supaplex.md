@@ -5,7 +5,7 @@ date: 2010-11-30T02:02:17+00:00
 author: vanoc
 layout: post
 guid: /?p=1093
-permalink: /igryi/novyiy-supaplex/
+permalink: /games/novyiy-supaplex/
 categories:
   - linux
   - runix

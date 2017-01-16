@@ -5,7 +5,7 @@ date: 2012-08-12T09:47:27+00:00
 author: vanoc
 layout: post
 guid: /?p=1352
-permalink: /igryi/skyrim-dawnguard-i-lookup-failed/
+permalink: /games/skyrim-dawnguard-i-lookup-failed/
 categories:
   - игры
 tags:

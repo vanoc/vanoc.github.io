@@ -5,7 +5,7 @@ date: 2009-05-02T14:48:58+00:00
 author: vanoc
 layout: post
 guid: /?p=479
-permalink: /igryi/zapusk-wow-pod-ubuntu/
+permalink: /games/zapusk-wow-pod-ubuntu/
 ljID:
   - "275"
 ljxp_comments:
